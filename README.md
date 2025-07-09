@@ -9,7 +9,7 @@ This is an angel-shaped keypad that I made for Highway to Undercity (Hackpad)!
 ![PCB](img/pcbView.png)
 
 ## Model
-![model](img/modelTogether.png)
+![model](img/caseTogether.png)
 
 ## BOM
 - 5x Cherry MX Switches
